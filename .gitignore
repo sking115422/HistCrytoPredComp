@@ -1,0 +1,6 @@
+data
+raw_data
+*venv
+data_org/asset_details.csv
+data_org/train.csv
+data_org/.ipynb_checkpoints
